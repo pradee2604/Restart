@@ -1,0 +1,31 @@
+…or create a new repository on the command line
+echo "# Restart" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/pradee2604/Restart.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/pradee2604/Restart.git
+git branch -M main
+git push -u origin main
+
+Git Commands
+
+cd Restart/
+     ls
+     touch Sample.txt
+     notepad sample2.txt
+     vi sample.txt
+     ls
+     git init
+     add .
+     git add .
+     clear
+     git commit -m "new commit"
+     git branch
+     git branch -m main
+     git remote add origin https://github.com/pradee2604/Restart.git
+     git push -u origin main
+  
